@@ -1,1 +1,1 @@
-# week20_homework
+# Week 20 homework Solidity Joint Savings Account
